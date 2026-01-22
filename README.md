@@ -22,13 +22,13 @@ A lightweight, robust C command-line tool designed to recursively traverse direc
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/sidshinde510/recursive-key-finder.git](https://github.com/sidshinde510/recursive-key-finder.git)
+    git clone [https://github.com/sidshinde510/KeyHunter.git](https://github.com/sidshinde510/KeyHunter.git)
     cd recursive-key-finder
     ```
 
 2.  **Compile the source code:**
     ```bash
-    gcc main.c -o keyfinder
+    gcc main.c -o keyhunter
     ```
 
 ## 💻 Usage
@@ -36,4 +36,4 @@ A lightweight, robust C command-line tool designed to recursively traverse direc
 Run the executable from your terminal:
 
 ```bash
-./keyfinder
+./keyhunter
