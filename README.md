@@ -22,7 +22,7 @@ A lightweight, robust C command-line tool designed to recursively traverse direc
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR-USERNAME/recursive-key-finder.git](https://github.com/YOUR-USERNAME/recursive-key-finder.git)
+    git clone [https://github.com/sidshinde510/recursive-key-finder.git](https://github.com/sidshinde510/recursive-key-finder.git)
     cd recursive-key-finder
     ```
 
